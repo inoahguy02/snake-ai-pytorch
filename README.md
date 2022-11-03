@@ -8,3 +8,9 @@ You can find all tutorials on my channel: [Playlist](https://www.youtube.com/pla
 - Part 2: Learn how to setup the environment and implement the Snake game.
 - Part 3: Implement the agent that controls the game.
 - Part 4: Implement the neural network to predict the moves and train it.
+
+# Added Multi-Agent use with this program
+
+During my time in the machine learning research team at SAU, I changed this program to use a declared number of agents that learn by inheriting the best agent's data.<br>
+
+"MultiAgent.py" is the code I made
